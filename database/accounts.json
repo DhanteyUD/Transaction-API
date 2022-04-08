@@ -1,0 +1,27 @@
+[
+    {
+        "accountNumber": "0150783383",
+        "balance": 0,
+        "createdAt": "2022-04-06T19:20:01.080Z"
+    },
+    {
+        "accountNumber": "0181823275",
+        "balance": 930,
+        "createdAt": "2022-04-06T19:20:10.162Z"
+    },
+    {
+        "accountNumber": "0178189422",
+        "balance": 400,
+        "createdAt": "2022-04-06T22:50:49.836Z"
+    },
+    {
+        "accountNumber": "0143733186",
+        "balance": 1100,
+        "createdAt": "2022-04-06T22:51:04.838Z"
+    },
+    {
+        "accountNumber": "0115548290",
+        "balance": 500,
+        "createdAt": "2022-04-07T15:55:01.063Z"
+    }
+]]
