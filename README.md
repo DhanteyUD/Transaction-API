@@ -1,13 +1,13 @@
-# week-7-task-node010
+# Transaction API
 
 ### Requirements
 
-1. Your are required to use `TypeScript` for the task and build the APIs (endpoints) with `express`
-2. Use and setup the project with `Yarn`
-3. Install docker on your Mac <a href="https://desktop.docker.com/mac/stable/Docker.dmg">Download</a>
+1. `TypeScript` used for the task and, and APIs (endpoints) built with `express`
+2. Project use and setup with `Yarn`
+3. Install docker on your Mac <a href="https://desktop.docker.com/mac/stable/Docker.dmg">Download Docker</a>
 4. Create a docker Registry on <a href="https://hub.docker.com/signup">Create Account</a>
 5. Containerize your application with Docker and push to your docker repository.
-6. Validate all input coming into your api endpoints to ensure they have the required properties and data types
+6. Input coming into api endpoints are validated to ensure they have the required properties and data types
 
 ## Problem Description:
 
@@ -17,14 +17,14 @@ You application is expected to have the following database structure
 - TABLE 1 - transactions
 
   - reference (unique)
-  - senderAccount nr
+  - senderAccount number
   - amount
-  - receiverAccount nr
+  - receiverAccount number
   - transferDescription
   - createdAt
 
 - TABLE 2 - balances
-  - account nr (unique)
+  - account number (unique)
   - balance
   - createdAt
 
@@ -51,10 +51,10 @@ The API you are to develop should be able to handle a transfer request of the fo
 
 ## Test coverage
 
-- Make sure you write test to cover your application using supertest
+- Test written using supertest
 
 ## Hosting
 
-- Host your application on Heroku
+- Application hosted on Heroku
 
 https://week-7-node-010-dhanteyud.herokuapp.com/
