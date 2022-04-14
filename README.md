@@ -2,7 +2,7 @@
 
 ### Requirements
 
-1. `TypeScript` used for the task and, and APIs (endpoints) built with `express`
+1. `TypeScript` was used for the task and, and APIs (endpoints) built with `express`
 2. Project use and setup with `Yarn`
 3. Install docker on your Mac <a href="https://desktop.docker.com/mac/stable/Docker.dmg">Download Docker</a>
 4. Create a docker Registry on <a href="https://hub.docker.com/signup">Create Account</a>
