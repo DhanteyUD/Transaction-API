@@ -2,17 +2,17 @@
 
 ### Requirements
 
-1. `TypeScript` was used for the task and, and APIs (endpoints) built with `express`
+1. `TypeScript` was used for the task, and APIs (endpoints) were built with `express`
 2. Project use and setup with `Yarn`
 3. Install docker on your Mac <a href="https://desktop.docker.com/mac/stable/Docker.dmg">Download Docker</a>
 4. Create a docker Registry on <a href="https://hub.docker.com/signup">Create Account</a>
-5. Containerize your application with Docker and push to your docker repository.
-6. Input coming into api endpoints are validated to ensure they have the required properties and data types
+5. Containerize your application with Docker and push it to your Docker repository.
+6. Input coming into API endpoints are validated to ensure they have the required properties and data types
 
 ## Problem Description:
 
 Imagine you are asked to develop a transfer service with APIs to transfer money between two accounts
-You application is expected to have the following database structure
+Your application is expected to have the following database structure
 
 - TABLE 1 - transactions
 
